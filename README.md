@@ -1,2 +1,2 @@
 # HappyJava
-A java class to find out Happy nummbers
+A java class to find out Happy numbers
